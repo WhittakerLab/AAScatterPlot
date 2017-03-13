@@ -15,23 +15,11 @@ AAScatterPlot is a tool for looking at aligned nucleotide and amino acid sequenc
 3. Follow installation instructions. It will download the necessary matlab files from the internet.  
 4. Find and run the AAScatterPlotGUI application.  
 
-### Option 2) Use in MATLAB (Requires bioinformatics and image processing* toolboxes. *See Note below.)  
+### Option 2) Use in MATLAB (Requires bioinformatics tool box)  
 1. Copy all files into a folder in the computer.  
 2. Open Matlab.  
 3. Search for the folder, right click it, and click on "Add to Path" and then "Selected Folder and Subfolders".  
 4. Type "AAScatterPlot" in the command window. It should open the GUI.  
-
-*Note: If you do not have image processing toolbox, the "imresize" function will not work to make the weblogos. You can manually disable weblogos by editing the AAScatterPlot.m file.   
-   a. Find the code text   
-     function pushbutton_Plot_Callback(hObject, eventdata, handles)  
-   
-   b. Below this text, comment out the DrawLogo function. Final text should be this:  
-   
-     function pushbutton_Plot_Callback(hObject, eventdata, handles)  
-     %Refresh Plot  
-     %DrawLogo(handles.axes_WebLogo,handles);  
-  
-   c. Save AAScatterPlotGUI.m  
    
 ## Basic Usage
 ### Assuming AAScatterPlot is already open  
