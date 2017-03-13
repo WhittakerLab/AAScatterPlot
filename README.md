@@ -1,7 +1,8 @@
 # AAScatterPlot
+## v1.5
 
-Whittaker Lab at Cornell  
-Written by Donald W Lee  
+Made by the Whittaker Lab at Cornell   
+Codes written by Donald W Lee  
 
 ## Purpose
 
