@@ -13,7 +13,7 @@ AAScatterPlot is a tool for looking at aligned nucleotide and amino acid sequenc
 1. Run AAScatterPlot_web.exe.  
 2. If Windows gives warning about protecting software, allow software to make modification to the system.  
 3. Follow installation instructions. It will download the necessary matlab files from the internet.  
-4. Find and run the AAScatterPlotGUI application.  
+4. Find and run the AAScatterPlot application.  
 
 ### Option 2) Use in MATLAB (Requires bioinformatics tool box)  
 1. Copy all files into a folder in the computer.  
@@ -24,7 +24,7 @@ AAScatterPlot is a tool for looking at aligned nucleotide and amino acid sequenc
 ## Basic Usage
 ### Assuming AAScatterPlot is already open  
 1. Use "Open Seq File" button to load the fasta file of nucleotide sequences. Note that sequences should begin on reading frame 1.  
-2. Ensure that the NTcol and AAcol are correctly referring to the corresponding column number.  
+2. Ensure that the NTcol and AAcol are correctly referring to their corresponding column numbers.  
 3. Use "Go Right" button to start exploring sequence properties. Or set the Start and End position text boxes. Scatter plots should be drawn.   
 4. Click on the web logo character to go to that position.  
 5. Click on a scatter plot dot to see potential mutations that could be possible.   
