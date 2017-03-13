@@ -35,7 +35,7 @@ AAScatterPlot is a tool for looking at aligned nucleotide and amino acid sequenc
 ### In case you need to align sequences  
 1. After loading the sequences, click on the "Align Tool" button.  
 2. Add the reference sequence into the text box.  
-3. Select whether the refernces sequence is are NT (nucleotides) or AA (amino acids).  
-4. Click on the "Align" button and observe alignment results.  
+3. Select whether the reference sequence type is NT (nucleotides) or AA (amino acids).  
+4. Click on the "Align" button and observe the alignment results.  
 5. Click on the "Accept" button. This will bring you back to the AAScatterPlot GUI with the newly aligned sequences.  
 
