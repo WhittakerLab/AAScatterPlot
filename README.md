@@ -9,7 +9,7 @@ AAScatterPlot is a tool for looking at aligned nucleotide and amino acid sequenc
 
 ## Installation
 
-### Option 1) Windows Installation (No Mac installation yet - use Option 2)  
+### Option 1) Windows Installation  
 1. Run AAScatterPlot_web.exe.  
 2. If Windows gives warning about protecting software, allow software to make modification to the system.  
 3. Follow installation instructions. It will download the necessary matlab files from the internet.  
