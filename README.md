@@ -1,4 +1,4 @@
-# AAScatterPlot v1.5
+# AAScatterPlot v1.0
 
 Made by the Whittaker Lab at Cornell   
 Codes written by Donald W Lee  
